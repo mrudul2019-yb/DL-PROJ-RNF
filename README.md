@@ -20,7 +20,7 @@ We implemented the algorithm in the paper for the dataset - Law School Admission
 
 - Python 3.7.13
 
-- Torch version - 1.11.0+cu113
+- Torch 1.11.0+cu113
 
 - Fairlearn v0.7.0
 
@@ -29,6 +29,8 @@ We implemented the algorithm in the paper for the dataset - Law School Admission
 - Pandas 1.3.5  
 
 - Sklearn 1.0.2
+
+- Matplotlib 3.2.2 
 
 - GPU
 
