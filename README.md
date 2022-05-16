@@ -28,6 +28,8 @@ We implemented the algorithm in the paper for the dataset - Law School Admission
 
 - Pandas 1.3.5  
 
+- Sklearn 1.0.2
+
 - GPU
 
 # Acknowledgements
