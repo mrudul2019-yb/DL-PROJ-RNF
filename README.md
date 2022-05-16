@@ -24,6 +24,10 @@ We implemented the algorithm in the paper for the dataset - Law School Admission
 
 - Fairlearn v0.7.0
 
+- Numpy 1.21.6
+
+- Pandas 1.3.5  
+
 - GPU
 
 # Acknowledgements
