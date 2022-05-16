@@ -14,7 +14,7 @@ We implemented the algorithm in the paper for the dataset - Law School Admission
 
 - `Images` folder contains screenshots of important plots involved in analysis.
 
-- `Final-Project-Submission-Deep-Learning.pdf` contains the final report for the project. 
+- `Final-Project-Submission-Deep-Learning.pdf` contains the final report for the project - **includes Introduction, Analysis, Findings and Contributions which are not included in Python_Notebooks explicitly** . 
 
 # Important Requirements
 
